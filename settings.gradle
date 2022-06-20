@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Paging3_With _Hilt_Retrofit_MVVM"
